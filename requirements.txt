@@ -1,0 +1,6 @@
+voila
+matplotlib
+ipywidgets
+tabulate
+pyXSteam
+numpy
