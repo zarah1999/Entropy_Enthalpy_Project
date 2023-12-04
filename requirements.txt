@@ -4,3 +4,4 @@ ipywidgets
 tabulate
 pyXSteam
 numpy
+ipython
