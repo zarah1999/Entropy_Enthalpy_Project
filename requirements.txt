@@ -6,4 +6,4 @@ pyXSteam==0.4.9
 numpy==1.21.2
 ipython==7.27.0
 ipympl==0.7.0
-@jupyter-widgets/controls@2.0.0
+@jupyter-widgets/jupyterlab-manager==3.0.0
