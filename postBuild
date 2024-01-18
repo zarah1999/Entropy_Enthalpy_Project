@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Launch Voila
-voila Entropy_Enthalpy_project.ipynb
